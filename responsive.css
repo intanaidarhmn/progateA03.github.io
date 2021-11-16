@@ -1,0 +1,135 @@
+/* For Tablets */
+
+/* Add a breakpoint at max-width: 1000px */
+@media all and (max-width: 1000px) {
+  
+  .profile-wrapper {
+    height: 2500px;
+  }
+
+  .profiles {
+    margin-right: 10px;
+  }
+
+  .profile {
+    width: 100%;
+    height: 430px;
+    margin-bottom: 40px;
+  }
+
+  .learn-cards {
+    margin-right: 30px;
+  }
+
+  .learn-card {
+    width: 100%;
+    margin: 10px 15px;
+  }
+
+  .learn-card img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .learn-wrapper {
+    height: 1000px;
+  }
+
+  .description {
+    height: 60px;
+  }
+
+  footer {
+    text-align: center;
+    height: 250px;
+  }
+
+  .footer-logo-wrapper {
+    float: none;
+  }
+
+  .footer-list {
+    float: none;
+  }
+
+  footer p {
+    padding-top: 0px;
+  }
+
+  .footer-logo {
+    padding-bottom: 20px;
+  }
+
+}
+
+/* For Smartphones */
+
+/* Add a breakpoint at max-width: 670px */
+@media all and (max-width: 670px) {
+
+  .profile-wrapper {
+    height: 2500px;
+  }
+
+  .profiles {
+    margin-right: 10px;
+  }
+
+  .profile {
+    width: 100%;
+    height: 430px;
+    margin-bottom: 40px;
+  }
+
+  .learn-cards {
+    margin-right: 30px;
+  }
+
+  .learn-card {
+    width: 100%;
+    margin: 10px 15px;
+    height: 490px;
+  }
+
+  .learn-wrapper {
+    height: 1190px;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .description {
+    height: 60px;
+  }
+
+  .btn-wrapper {
+    padding-top: 10px;
+  }
+
+  .menu-icon {
+    visibility: visible;
+  }
+
+  footer {
+    text-align: center;
+    height: 250px;
+  }
+
+  .footer-logo-wrapper {
+    float: none;
+  }
+
+  .footer-list {
+    float: none;
+  }
+
+  footer p {
+    padding-top: 0px;
+  }
+
+  .footer-logo {
+    padding-bottom: 20px;
+  }
+
+}
