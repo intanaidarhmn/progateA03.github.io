@@ -24,6 +24,7 @@
   .learn-card {
     width: 100%;
     margin: 10px 15px;
+    height: 400px;
   }
 
   .learn-card img {
